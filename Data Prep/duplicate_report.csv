@@ -1,0 +1,119 @@
+class,image_1,image_2,normal_distance,mirror_distance,best_distance
+healed,100.jpg,mirrored_100.jpg,32,2,2
+healed,11.jpg,mirrored_11.jpg,26,0,0
+healed,12.jpg,mirrored_12.jpg,32,0,0
+healed,13.jpg,mirrored_13.jpg,30,0,0
+healed,14.jpg,mirrored_14.jpg,24,2,2
+healed,14_0.jpg,mirrored_14_0.jpg,32,2,2
+healed,15.jpg,mirrored_15.jpg,30,2,2
+healed,16.jpg,mirrored_16.jpg,32,0,0
+healed,17.jpg,mirrored_17.jpg,34,0,0
+healed,17_0.jpg,mirrored_17_0.jpg,30,0,0
+healed,18.jpg,mirrored_18.jpg,32,0,0
+healed,18_0.jpg,mirrored_18_0.jpg,34,0,0
+healed,19.jpg,mirrored_19.jpg,28,0,0
+healed,19_0.jpg,mirrored_19_0.jpg,30,0,0
+healed,19_1.jpg,mirrored_19_1.jpg,32,0,0
+healed,20.jpg,mirrored_20.jpg,30,0,0
+healed,26.jpg,mirrored_26.jpg,28,0,0
+healed,28.jpg,mirrored_28.jpg,32,0,0
+healed,36.jpg,mirrored_36.jpg,28,0,0
+healed,37.jpg,mirrored_37.jpg,36,2,2
+healed,38.jpg,mirrored_38.jpg,28,2,2
+healed,39.jpg,mirrored_39.jpg,32,0,0
+healed,40.jpg,mirrored_40.jpg,28,0,0
+healed,41.jpg,mirrored_41.jpg,30,0,0
+healed,42.jpg,mirrored_42.jpg,30,0,0
+healed,46.jpg,mirrored_46.jpg,32,0,0
+healed,47.jpg,mirrored_47.jpg,30,0,0
+healed,54.jpg,mirrored_54.jpg,34,0,0
+healed,55.jpg,mirrored_55.jpg,30,0,0
+healed,56.jpg,mirrored_56.jpg,32,0,0
+healed,57.jpg,mirrored_57.jpg,30,0,0
+healed,58.jpg,mirrored_58.jpg,32,0,0
+healed,79.jpg,mirrored_79.jpg,30,2,2
+healed,80.jpg,mirrored_80.jpg,32,2,2
+healed,81.jpg,mirrored_81.jpg,34,0,0
+healed,82.jpg,mirrored_82.jpg,38,0,0
+healed,83.jpg,mirrored_83.jpg,32,0,0
+healed,84.jpg,mirrored_84.jpg,34,0,0
+healed,85.jpg,mirrored_85.jpg,28,2,2
+healed,86.jpg,mirrored_86.jpg,30,0,0
+healed,87.jpg,mirrored_87.jpg,30,0,0
+healed,98.jpg,mirrored_98.jpg,34,0,0
+healed,99.jpg,mirrored_99.jpg,34,4,4
+healing,cut (10).jpg,mirrored_cut (10).jpg,30,0,0
+healing,cut (11).jpg,mirrored_cut (11).jpg,30,0,0
+healing,cut (13).jpg,mirrored_cut (13).jpg,30,0,0
+healing,cut (14).jpg,mirrored_cut (14).jpg,32,0,0
+healing,cut (16).jpg,mirrored_cut (16).jpg,32,0,0
+healing,cut (17).jpg,mirrored_cut (17).jpg,32,0,0
+healing,cut (18).jpg,mirrored_cut (18).jpg,36,0,0
+healing,cut (19).jpg,mirrored_cut (19).jpg,34,0,0
+healing,cut (21).jpg,mirrored_cut (21).jpg,30,0,0
+healing,cut (22).jpg,mirrored_cut (22).jpg,34,0,0
+healing,cut (23).jpg,mirrored_cut (23).jpg,28,0,0
+healing,cut (24).jpg,mirrored_cut (24).jpg,28,0,0
+healing,cut (25).jpg,mirrored_cut (25).jpg,28,0,0
+healing,cut (26).jpg,mirrored_cut (26).jpg,30,0,0
+healing,cut (27).jpg,mirrored_cut (27).jpg,30,0,0
+healing,cut (28).jpg,mirrored_cut (28).jpg,30,0,0
+healing,cut (29).jpg,mirrored_cut (29).jpg,32,0,0
+healing,cut (3).jpg,mirrored_cut (3).jpg,30,0,0
+healing,cut (30).jpg,mirrored_cut (30).jpg,28,0,0
+healing,cut (31).jpg,mirrored_cut (31).jpg,30,0,0
+healing,cut (32).jpg,mirrored_cut (32).jpg,30,0,0
+healing,cut (33).jpg,mirrored_cut (33).jpg,34,0,0
+healing,cut (36).jpg,mirrored_cut (36).jpg,34,0,0
+healing,cut (37).jpg,mirrored_cut (37).jpg,34,0,0
+healing,cut (45).jpg,mirrored_cut (45).jpg,28,0,0
+healing,cut (46).jpg,mirrored_cut (46).jpg,34,0,0
+healing,cut (47).jpg,mirrored_cut (47).jpg,32,0,0
+healing,cut (48).jpg,mirrored_cut (48).jpg,34,0,0
+healing,cut (49).jpg,mirrored_cut (49).jpg,30,0,0
+healing,cut (50).jpg,mirrored_cut (50).jpg,32,0,0
+inflammation,bruises (10).jpg,mirrored_bruises (10).jpg,32,0,0
+inflammation,bruises (100).jpg,mirrored_bruises (100).jpg,32,0,0
+inflammation,bruises (101).jpg,mirrored_bruises (101).jpg,28,0,0
+inflammation,bruises (102).jpg,mirrored_bruises (102).jpg,32,0,0
+inflammation,bruises (103).jpg,mirrored_bruises (103).jpg,28,0,0
+inflammation,bruises (11).jpg,mirrored_bruises (11).jpg,36,0,0
+inflammation,bruises (110).jpg,mirrored_bruises (39).jpg,36,0,0
+inflammation,bruises (111).jpg,mirrored_bruises (111).jpg,30,0,0
+inflammation,bruises (112).jpg,mirrored_bruises (112).jpg,34,0,0
+inflammation,bruises (113).jpg,mirrored_bruises (113).jpg,28,0,0
+inflammation,bruises (12).jpg,mirrored_bruises (12).jpg,30,0,0
+inflammation,bruises (122).jpg,mirrored_bruises (122).jpg,32,0,0
+inflammation,bruises (13).jpg,mirrored_bruises (13).jpg,32,0,0
+inflammation,bruises (14).jpg,mirrored_bruises (14).jpg,32,0,0
+inflammation,bruises (15).jpg,mirrored_bruises (15).jpg,34,0,0
+inflammation,bruises (16).jpg,mirrored_bruises (16).jpg,30,0,0
+inflammation,bruises (5).jpg,mirrored_bruises (5).jpg,28,0,0
+inflammation,bruises (6).jpg,mirrored_bruises (6).jpg,30,0,0
+inflammation,bruises (7).jpg,mirrored_bruises (7).jpg,30,0,0
+inflammation,bruises (8).jpg,mirrored_bruises (8).jpg,30,0,0
+inflammation,bruises (9).jpg,mirrored_bruises (9).jpg,28,0,0
+inflammation,mirrored_bruises (15).jpg,mirrored_bruises (28).jpg,6,30,6
+inflammation,mirrored_bruises (25).jpg,mirrored_bruises (29).jpg,2,30,2
+inflammation,mirrored_bruises (32).jpg,mirrored_bruises (63).jpg,8,34,8
+inflammation,mirrored_bruises (36).jpg,mirrored_bruises (78).jpg,2,30,2
+inflammation,mirrored_pressure-ulcer-on-foot-0006.jpg,pressure-ulcer-on-foot-0006.jpg,34,0,0
+initial,abrasions (1).jpg,mirrored_abrasions (1).jpg,30,0,0
+initial,abrasions (17).jpg,mirrored_abrasions (17).jpg,32,0,0
+initial,abrasions (43).jpg,abrasions (81).jpg,8,32,8
+initial,abrasions (56).jpg,mirrored_abrasions (56).jpg,28,0,0
+initial,abrasions (57).jpg,mirrored_abrasions (57).jpg,28,0,0
+initial,abrasions (59).jpg,mirrored_abrasions (59).jpg,26,0,0
+initial,abrasions (6).jpg,mirrored_abrasions (6).jpg,32,0,0
+initial,abrasions (67).jpg,mirrored_abrasions (67).jpg,30,0,0
+initial,abrasions (7).jpg,mirrored_abrasions (7).jpg,32,0,0
+initial,abrasions (8).jpg,mirrored_abrasions (8).jpg,30,0,0
+initial,abrasions (82).jpg,mirrored_abrasions (82).jpg,32,0,0
+initial,abrasions (9).jpg,mirrored_abrasions (9).jpg,30,0,0
+initial,cut (20).jpg,mirrored_cut (20).jpg,30,0,0
+initial,cut (35).jpg,mirrored_cut (35).jpg,30,0,0
+initial,cut (42).jpg,mirrored_cut (42).jpg,32,0,0
+initial,cut (7).jpg,mirrored_cut (7).jpg,34,0,0
+initial,laseration (36).jpg,mirrored_laseration (36).jpg,32,0,0
+initial,laseration (41).jpg,mirrored_laseration (41).jpg,32,0,0
+initial,laseration (48).jpg,mirrored_laseration (48).jpg,32,0,0

@@ -1,0 +1,587 @@
+group_id,class,filename,label_conflict,group_labels,group_size
+G001,healed,100.jpg,False,healed,2
+G001,healed,mirrored_100.jpg,False,healed,2
+G002,healed,11.jpg,False,healed,2
+G002,healed,mirrored_11.jpg,False,healed,2
+G003,healed,12.jpg,False,healed,2
+G003,healed,mirrored_12.jpg,False,healed,2
+G004,healed,13.jpg,False,healed,2
+G004,healed,mirrored_13.jpg,False,healed,2
+G005,healed,14.jpg,False,healed,2
+G005,healed,mirrored_14.jpg,False,healed,2
+G006,healed,14_0.jpg,False,healed,2
+G006,healed,mirrored_14_0.jpg,False,healed,2
+G007,healed,15.jpg,False,healed,2
+G007,healed,mirrored_15.jpg,False,healed,2
+G008,healed,16.jpg,False,healed,2
+G008,healed,mirrored_16.jpg,False,healed,2
+G009,healed,17.jpg,False,healed,2
+G009,healed,mirrored_17.jpg,False,healed,2
+G010,healed,17_0.jpg,False,healed,2
+G010,healed,mirrored_17_0.jpg,False,healed,2
+G011,healed,18.jpg,False,healed,2
+G011,healed,mirrored_18.jpg,False,healed,2
+G012,healed,18_0.jpg,False,healed,2
+G012,healed,mirrored_18_0.jpg,False,healed,2
+G013,healed,19.jpg,False,healed,2
+G013,healed,mirrored_19.jpg,False,healed,2
+G014,healed,19_0.jpg,False,healed,2
+G014,healed,mirrored_19_0.jpg,False,healed,2
+G015,healed,19_1.jpg,False,healed,2
+G015,healed,mirrored_19_1.jpg,False,healed,2
+G016,healed,20.jpg,False,healed,2
+G016,healed,mirrored_20.jpg,False,healed,2
+G017,healed,2138755.jpg,False,healed,1
+G018,healed,26.jpg,False,healed,2
+G018,healed,mirrored_26.jpg,False,healed,2
+G019,healed,26_0.jpg,False,healed,1
+G020,healed,26_1.jpg,False,healed,1
+G021,healed,27.jpg,False,healed,1
+G022,healed,28.jpg,False,healed,2
+G022,healed,mirrored_28.jpg,False,healed,2
+G023,healed,36.jpg,False,healed,2
+G023,healed,mirrored_36.jpg,False,healed,2
+G024,healed,37.jpg,False,healed,2
+G024,healed,mirrored_37.jpg,False,healed,2
+G025,healed,38.jpg,False,healed,2
+G025,healed,mirrored_38.jpg,False,healed,2
+G026,healed,39.jpg,False,healed,2
+G026,healed,mirrored_39.jpg,False,healed,2
+G027,healed,40.jpg,False,healed,2
+G027,healed,mirrored_40.jpg,False,healed,2
+G028,healed,41.jpg,False,healed,2
+G028,healed,mirrored_41.jpg,False,healed,2
+G029,healed,42.jpg,False,healed,2
+G029,healed,mirrored_42.jpg,False,healed,2
+G030,healed,43.jpg,False,healed,1
+G031,healed,44.jpg,False,healed,1
+G032,healed,45.jpg,False,healed,1
+G033,healed,46.jpg,False,healed,2
+G033,healed,mirrored_46.jpg,False,healed,2
+G034,healed,47.jpg,False,healed,2
+G034,healed,mirrored_47.jpg,False,healed,2
+G035,healed,54.jpg,False,healed,2
+G035,healed,mirrored_54.jpg,False,healed,2
+G036,healed,55.jpg,False,healed,2
+G036,healed,mirrored_55.jpg,False,healed,2
+G037,healed,56.jpg,False,healed,2
+G037,healed,mirrored_56.jpg,False,healed,2
+G038,healed,57.jpg,False,healed,2
+G038,healed,mirrored_57.jpg,False,healed,2
+G039,healed,58.jpg,False,healed,2
+G039,healed,mirrored_58.jpg,False,healed,2
+G040,healed,59.jpg,False,healed,1
+G041,healed,60.jpg,False,healed,1
+G042,healed,61.jpg,False,healed,1
+G043,healed,62.jpg,False,healed,1
+G044,healed,63.jpg,False,healed,1
+G045,healed,64.jpg,False,healed,1
+G046,healed,65.jpg,False,healed,1
+G047,healed,66.jpg,False,healed,1
+G048,healed,67.jpg,False,healed,1
+G049,healed,68.jpg,False,healed,1
+G050,healed,69.jpg,False,healed,1
+G051,healed,70.jpg,False,healed,1
+G052,healed,71.jpg,False,healed,1
+G053,healed,72.jpg,False,healed,1
+G054,healed,73.jpg,False,healed,1
+G055,healed,74.jpg,False,healed,1
+G056,healed,75.jpg,False,healed,1
+G057,healed,76.jpg,False,healed,1
+G058,healed,77.jpg,False,healed,1
+G059,healed,78.jpg,False,healed,1
+G060,healed,79.jpg,False,healed,2
+G060,healed,mirrored_79.jpg,False,healed,2
+G061,healed,80.jpg,False,healed,2
+G061,healed,mirrored_80.jpg,False,healed,2
+G062,healed,81.jpg,False,healed,2
+G062,healed,mirrored_81.jpg,False,healed,2
+G063,healed,82.jpg,False,healed,2
+G063,healed,mirrored_82.jpg,False,healed,2
+G064,healed,83.jpg,False,healed,2
+G064,healed,mirrored_83.jpg,False,healed,2
+G065,healed,84.jpg,False,healed,2
+G065,healed,mirrored_84.jpg,False,healed,2
+G066,healed,85.jpg,False,healed,2
+G066,healed,mirrored_85.jpg,False,healed,2
+G067,healed,86.jpg,False,healed,2
+G067,healed,mirrored_86.jpg,False,healed,2
+G068,healed,87.jpg,False,healed,2
+G068,healed,mirrored_87.jpg,False,healed,2
+G069,healed,88.jpg,False,healed,1
+G070,healed,89.jpg,False,healed,1
+G071,healed,90.jpg,False,healed,1
+G072,healed,91.jpg,False,healed,1
+G073,healed,92.jpg,False,healed,1
+G074,healed,93.jpg,False,healed,1
+G075,healed,94.jpg,False,healed,1
+G076,healed,95.jpg,False,healed,1
+G077,healed,96.jpg,False,healed,1
+G078,healed,97.jpg,False,healed,1
+G079,healed,98.jpg,False,healed,2
+G079,healed,mirrored_98.jpg,False,healed,2
+G080,healed,99.jpg,False,healed,2
+G080,healed,mirrored_99.jpg,False,healed,2
+G081,healed,c0478502-800px-wm.jpg,False,healed,1
+G082,healed,download.jpg,False,healed,1
+G083,healed,gcu79uukpegb1.jpg,False,healed,1
+G084,healed,images.jpg,False,healed,1
+G085,healed,istockphoto-1339812670-612x612.webp,False,healed,1
+G086,healed,istockphoto-161953571-612x612.jpg,False,healed,1
+G087,healed,istockphoto-168249627-612x612.webp,False,healed,1
+G088,healed,mirrored_1.jpg,False,healed,1
+G089,healed,mirrored_10.jpg,False,healed,1
+G090,healed,mirrored_16_1.jpg,False,healed,1
+G091,healed,mirrored_2.jpg,False,healed,1
+G092,healed,mirrored_29.jpg,False,healed,1
+G093,healed,mirrored_3.jpg,False,healed,1
+G094,healed,mirrored_30.jpg,False,healed,1
+G095,healed,mirrored_31.jpg,False,healed,1
+G096,healed,mirrored_33.jpg,False,healed,1
+G097,healed,mirrored_34.jpg,False,healed,1
+G098,healed,mirrored_35.jpg,False,healed,1
+G099,healed,mirrored_4.jpg,False,healed,1
+G100,healed,mirrored_5.jpg,False,healed,1
+G101,healed,mirrored_52.jpg,False,healed,1
+G102,healed,mirrored_53.jpg,False,healed,1
+G103,healed,mirrored_6.jpg,False,healed,1
+G104,healed,mirrored_7.jpg,False,healed,1
+G105,healed,mirrored_8.jpg,False,healed,1
+G106,healed,mirrored_9.jpg,False,healed,1
+G107,healed,Surgical-Incision-Close-Up-Stock-Photo-2-300x200.jpg,False,healed,1
+G108,healing,102_0.jpg,False,healing,1
+G109,healing,103_0.jpg,False,healing,1
+G110,healing,104_0.jpg,False,healing,1
+G111,healing,105_0.jpg,False,healing,1
+G112,healing,106_0.jpg,False,healing,1
+G113,healing,107_0.jpg,False,healing,1
+G114,healing,107_1.jpg,False,healing,1
+G115,healing,111_0.jpg,False,healing,1
+G116,healing,23_1.jpg,False,healing,1
+G117,healing,38_0.jpg,False,healing,1
+G118,healing,39_0.jpg,False,healing,1
+G119,healing,40_0.jpg,False,healing,1
+G120,healing,42_0.jpg,False,healing,1
+G121,healing,43_0.jpg,False,healing,1
+G122,healing,44_0.jpg,False,healing,1
+G123,healing,45_0.jpg,False,healing,1
+G124,healing,46_0.jpg,False,healing,1
+G125,healing,bruise-knee-wound-scab-injury-260nw-1025370340.webp,False,healing,1
+G126,healing,C0235716-Chronic_venous_disease_copy_Jg1jTW0.o.width-320.jpg,False,healing,1
+G127,healing,cut (10).jpg,False,healing,2
+G127,healing,mirrored_cut (10).jpg,False,healing,2
+G128,healing,cut (11).jpg,False,healing,2
+G128,healing,mirrored_cut (11).jpg,False,healing,2
+G129,healing,cut (12).jpg,True,"healing, initial",2
+G129,initial,mirrored_cut (12).jpg,True,"healing, initial",2
+G130,healing,cut (13).jpg,False,healing,2
+G130,healing,mirrored_cut (13).jpg,False,healing,2
+G131,healing,cut (14).jpg,False,healing,2
+G131,healing,mirrored_cut (14).jpg,False,healing,2
+G132,healing,cut (16).jpg,False,healing,2
+G132,healing,mirrored_cut (16).jpg,False,healing,2
+G133,healing,cut (17).jpg,False,healing,2
+G133,healing,mirrored_cut (17).jpg,False,healing,2
+G134,healing,cut (18).jpg,False,healing,2
+G134,healing,mirrored_cut (18).jpg,False,healing,2
+G135,healing,cut (19).jpg,False,healing,2
+G135,healing,mirrored_cut (19).jpg,False,healing,2
+G136,healing,cut (21).jpg,False,healing,2
+G136,healing,mirrored_cut (21).jpg,False,healing,2
+G137,healing,cut (22).jpg,False,healing,2
+G137,healing,mirrored_cut (22).jpg,False,healing,2
+G138,healing,cut (23).jpg,False,healing,2
+G138,healing,mirrored_cut (23).jpg,False,healing,2
+G139,healing,cut (24).jpg,False,healing,2
+G139,healing,mirrored_cut (24).jpg,False,healing,2
+G140,healing,cut (25).jpg,False,healing,2
+G140,healing,mirrored_cut (25).jpg,False,healing,2
+G141,healing,cut (26).jpg,False,healing,2
+G141,healing,mirrored_cut (26).jpg,False,healing,2
+G142,healing,cut (27).jpg,False,healing,2
+G142,healing,mirrored_cut (27).jpg,False,healing,2
+G143,healing,cut (28).jpg,False,healing,2
+G143,healing,mirrored_cut (28).jpg,False,healing,2
+G144,healing,cut (29).jpg,False,healing,2
+G144,healing,mirrored_cut (29).jpg,False,healing,2
+G145,healing,cut (3).jpg,False,healing,2
+G145,healing,mirrored_cut (3).jpg,False,healing,2
+G146,healing,cut (30).jpg,False,healing,2
+G146,healing,mirrored_cut (30).jpg,False,healing,2
+G147,healing,cut (31).jpg,False,healing,2
+G147,healing,mirrored_cut (31).jpg,False,healing,2
+G148,healing,cut (32).jpg,False,healing,2
+G148,healing,mirrored_cut (32).jpg,False,healing,2
+G149,healing,cut (33).jpg,False,healing,2
+G149,healing,mirrored_cut (33).jpg,False,healing,2
+G150,healing,cut (36).jpg,False,healing,2
+G150,healing,mirrored_cut (36).jpg,False,healing,2
+G151,healing,cut (37).jpg,False,healing,2
+G151,healing,mirrored_cut (37).jpg,False,healing,2
+G152,healing,cut (38).jpg,True,"healing, initial",2
+G152,initial,mirrored_cut (38).jpg,True,"healing, initial",2
+G153,healing,cut (39).jpg,False,healing,1
+G154,healing,cut (40).jpg,False,healing,1
+G155,healing,cut (43).jpg,False,healing,1
+G156,healing,cut (44).jpg,False,healing,1
+G157,healing,cut (45).jpg,False,healing,2
+G157,healing,mirrored_cut (45).jpg,False,healing,2
+G158,healing,cut (46).jpg,False,healing,2
+G158,healing,mirrored_cut (46).jpg,False,healing,2
+G159,healing,cut (47).jpg,False,healing,2
+G159,healing,mirrored_cut (47).jpg,False,healing,2
+G160,healing,cut (48).jpg,False,healing,2
+G160,healing,mirrored_cut (48).jpg,False,healing,2
+G161,healing,cut (49).jpg,False,healing,2
+G161,healing,mirrored_cut (49).jpg,False,healing,2
+G162,healing,cut (5).jpg,True,"healing, initial",2
+G162,initial,mirrored_cut (5).jpg,True,"healing, initial",2
+G163,healing,cut (50).jpg,False,healing,2
+G163,healing,mirrored_cut (50).jpg,False,healing,2
+G164,healing,cut (6).jpg,False,healing,1
+G165,healing,cut (8).jpg,False,healing,1
+G166,healing,cut (9).jpg,True,"healing, initial",2
+G166,initial,mirrored_cut (9).jpg,True,"healing, initial",2
+G167,healing,depositphotos_588227516-stock-photo-large-dried-scab-man-arm.webp,False,healing,1
+G168,healing,download.jpg,False,healing,1
+G169,healing,gettyimages-1339019933-612x612.jpg,False,healing,1
+G170,healing,gettyimages-1599758309-612x612.jpg,False,healing,1
+G171,healing,Healing-wounds.jpg,False,healing,1
+G172,healing,images.jpg,False,healing,1
+G173,healing,laseration (50).jpg,False,healing,1
+G174,healing,medetec_0065.png,False,healing,1
+G175,healing,mirrored_13_1.jpg,False,healing,1
+G176,healing,mirrored_15_0.jpg,False,healing,1
+G177,healing,mirrored_15_1.jpg,False,healing,1
+G178,healing,mirrored_16_0.jpg,False,healing,1
+G179,healing,mirrored_17_1.jpg,False,healing,1
+G180,healing,mirrored_1_0.jpg,False,healing,1
+G181,healing,mirrored_51_0.jpg,False,healing,1
+G182,healing,mirrored_51_1.jpg,False,healing,1
+G183,healing,mirrored_52_0.jpg,False,healing,1
+G184,healing,mirrored_52_1.jpg,False,healing,1
+G185,healing,mirrored_53_0.jpg,False,healing,1
+G186,healing,mirrored_cut (1).jpg,False,healing,1
+G187,healing,mirrored_cut (2).jpg,False,healing,1
+G188,healing,mirrored_laseration (15).jpg,False,healing,1
+G189,healing,mirrored_orthopaedic-wound-10.jpg,False,healing,1
+G190,healing,mirrored_orthopaedic-wound-11.jpg,False,healing,1
+G191,healing,mirrored_orthopaedic-wound-12.jpg,False,healing,1
+G192,healing,mirrored_orthopaedic-wound-13-0.jpg,False,healing,1
+G193,healing,mirrored_orthopaedic-wound-13-1.jpg,False,healing,1
+G194,healing,mirrored_orthopaedic-wound-13-2.jpg,False,healing,1
+G195,healing,mirrored_orthopaedic-wound-13-3.jpg,False,healing,1
+G196,healing,mirrored_orthopaedic-wound-14.jpg,False,healing,1
+G197,healing,mirrored_orthopaedic-wound-15.jpg,False,healing,1
+G198,healing,wound-scabs.jpg,False,healing,1
+G199,healing,wsnet_0051.png,False,healing,1
+G200,healing,wsnet_0052.png,False,healing,1
+G201,healing,wsnet_0053.png,False,healing,1
+G202,healing,wsnet_0054.png,False,healing,1
+G203,healing,wsnet_0055.png,False,healing,1
+G204,healing,wsnet_0056.png,False,healing,1
+G205,healing,wsnet_0057.png,False,healing,1
+G206,healing,wsnet_0058.png,False,healing,1
+G207,healing,wsnet_0059.png,False,healing,1
+G208,healing,wsnet_0060.png,False,healing,1
+G209,healing,wsnet_0061.png,False,healing,1
+G210,healing,wsnet_0115.png,False,healing,1
+G211,healing,wsnet_0177.png,False,healing,1
+G212,healing,wsnet_0178.png,False,healing,1
+G213,healing,wsnet_0179.png,False,healing,1
+G214,healing,wsnet_0180.png,False,healing,1
+G215,healing,wsnet_0368.png,False,healing,1
+G216,healing,wsnet_0369.png,False,healing,1
+G217,healing,wsnet_0370.png,False,healing,1
+G218,healing,wsnet_0371.png,False,healing,1
+G219,inflammation,110_1.jpg,False,inflammation,1
+G220,inflammation,116_0.jpg,False,inflammation,1
+G221,inflammation,41_0.jpg,False,inflammation,1
+G222,inflammation,42_0.jpg,False,inflammation,1
+G223,inflammation,42_1.jpg,False,inflammation,1
+G224,inflammation,42_2.jpg,False,inflammation,1
+G225,inflammation,42_3.jpg,False,inflammation,1
+G226,inflammation,bruises (10).jpg,False,inflammation,2
+G226,inflammation,mirrored_bruises (10).jpg,False,inflammation,2
+G227,inflammation,bruises (100).jpg,False,inflammation,2
+G227,inflammation,mirrored_bruises (100).jpg,False,inflammation,2
+G228,inflammation,bruises (101).jpg,False,inflammation,2
+G228,inflammation,mirrored_bruises (101).jpg,False,inflammation,2
+G229,inflammation,bruises (102).jpg,False,inflammation,2
+G229,inflammation,mirrored_bruises (102).jpg,False,inflammation,2
+G230,inflammation,bruises (103).jpg,False,inflammation,2
+G230,inflammation,mirrored_bruises (103).jpg,False,inflammation,2
+G231,inflammation,bruises (104).jpg,False,inflammation,1
+G232,inflammation,bruises (105).jpg,False,inflammation,1
+G233,inflammation,bruises (106).jpg,False,inflammation,1
+G234,inflammation,bruises (107).jpg,False,inflammation,1
+G235,inflammation,bruises (108).jpg,False,inflammation,1
+G236,inflammation,bruises (109).jpg,False,inflammation,1
+G237,inflammation,bruises (11).jpg,False,inflammation,2
+G237,inflammation,mirrored_bruises (11).jpg,False,inflammation,2
+G238,inflammation,bruises (110).jpg,False,inflammation,2
+G238,inflammation,mirrored_bruises (39).jpg,False,inflammation,2
+G239,inflammation,bruises (111).jpg,False,inflammation,2
+G239,inflammation,mirrored_bruises (111).jpg,False,inflammation,2
+G240,inflammation,bruises (112).jpg,False,inflammation,2
+G240,inflammation,mirrored_bruises (112).jpg,False,inflammation,2
+G241,inflammation,bruises (113).jpg,False,inflammation,2
+G241,inflammation,mirrored_bruises (113).jpg,False,inflammation,2
+G242,inflammation,bruises (114).jpg,False,inflammation,1
+G243,inflammation,bruises (115).jpg,False,inflammation,1
+G244,inflammation,bruises (116).jpg,False,inflammation,1
+G245,inflammation,bruises (117).jpg,False,inflammation,1
+G246,inflammation,bruises (118).jpg,False,inflammation,1
+G247,inflammation,bruises (119).jpg,False,inflammation,1
+G248,inflammation,bruises (12).jpg,False,inflammation,2
+G248,inflammation,mirrored_bruises (12).jpg,False,inflammation,2
+G249,inflammation,bruises (120).jpg,False,inflammation,1
+G250,inflammation,bruises (121).jpg,False,inflammation,1
+G251,inflammation,bruises (122).jpg,False,inflammation,2
+G251,inflammation,mirrored_bruises (122).jpg,False,inflammation,2
+G252,inflammation,bruises (13).jpg,False,inflammation,2
+G252,inflammation,mirrored_bruises (13).jpg,False,inflammation,2
+G253,inflammation,bruises (14).jpg,False,inflammation,2
+G253,inflammation,mirrored_bruises (14).jpg,False,inflammation,2
+G254,inflammation,bruises (15).jpg,False,inflammation,3
+G254,inflammation,mirrored_bruises (15).jpg,False,inflammation,3
+G254,inflammation,mirrored_bruises (28).jpg,False,inflammation,3
+G255,inflammation,bruises (16).jpg,False,inflammation,2
+G255,inflammation,mirrored_bruises (16).jpg,False,inflammation,2
+G256,inflammation,bruises (4).jpg,False,inflammation,1
+G257,inflammation,bruises (5).jpg,False,inflammation,2
+G257,inflammation,mirrored_bruises (5).jpg,False,inflammation,2
+G258,inflammation,bruises (6).jpg,False,inflammation,2
+G258,inflammation,mirrored_bruises (6).jpg,False,inflammation,2
+G259,inflammation,bruises (7).jpg,False,inflammation,2
+G259,inflammation,mirrored_bruises (7).jpg,False,inflammation,2
+G260,inflammation,bruises (8).jpg,False,inflammation,2
+G260,inflammation,mirrored_bruises (8).jpg,False,inflammation,2
+G261,inflammation,bruises (9).jpg,False,inflammation,2
+G261,inflammation,mirrored_bruises (9).jpg,False,inflammation,2
+G262,inflammation,fusc_0026.png,False,inflammation,1
+G263,inflammation,fusc_0046.png,False,inflammation,1
+G264,inflammation,fusc_0081.png,False,inflammation,1
+G265,inflammation,fusc_0153.png,False,inflammation,1
+G266,inflammation,fusc_0197.png,False,inflammation,1
+G267,inflammation,fusc_0340.png,False,inflammation,1
+G268,inflammation,mirrored_bruises (17).jpg,False,inflammation,1
+G269,inflammation,mirrored_bruises (18).jpg,False,inflammation,1
+G270,inflammation,mirrored_bruises (19).jpg,False,inflammation,1
+G271,inflammation,mirrored_bruises (20).jpg,False,inflammation,1
+G272,inflammation,mirrored_bruises (21).jpg,False,inflammation,1
+G273,inflammation,mirrored_bruises (22).jpg,False,inflammation,1
+G274,inflammation,mirrored_bruises (23).jpg,False,inflammation,1
+G275,inflammation,mirrored_bruises (24).jpg,False,inflammation,1
+G276,inflammation,mirrored_bruises (25).jpg,False,inflammation,2
+G276,inflammation,mirrored_bruises (29).jpg,False,inflammation,2
+G277,inflammation,mirrored_bruises (26).jpg,False,inflammation,1
+G278,inflammation,mirrored_bruises (27).jpg,False,inflammation,1
+G279,inflammation,mirrored_bruises (30).jpg,False,inflammation,1
+G280,inflammation,mirrored_bruises (31).jpg,False,inflammation,1
+G281,inflammation,mirrored_bruises (32).jpg,False,inflammation,2
+G281,inflammation,mirrored_bruises (63).jpg,False,inflammation,2
+G282,inflammation,mirrored_bruises (33).jpg,False,inflammation,1
+G283,inflammation,mirrored_bruises (34).jpg,False,inflammation,1
+G284,inflammation,mirrored_bruises (35).jpg,False,inflammation,1
+G285,inflammation,mirrored_bruises (36).jpg,False,inflammation,2
+G285,inflammation,mirrored_bruises (78).jpg,False,inflammation,2
+G286,inflammation,mirrored_bruises (38).jpg,False,inflammation,1
+G287,inflammation,mirrored_bruises (40).jpg,False,inflammation,1
+G288,inflammation,mirrored_bruises (41).jpg,False,inflammation,1
+G289,inflammation,mirrored_bruises (42).jpg,False,inflammation,1
+G290,inflammation,mirrored_bruises (52).jpg,False,inflammation,1
+G291,inflammation,mirrored_bruises (53).jpg,False,inflammation,1
+G292,inflammation,mirrored_bruises (54).jpg,False,inflammation,1
+G293,inflammation,mirrored_bruises (55).jpg,False,inflammation,1
+G294,inflammation,mirrored_bruises (56).jpg,False,inflammation,1
+G295,inflammation,mirrored_bruises (57).jpg,False,inflammation,1
+G296,inflammation,mirrored_bruises (58).jpg,False,inflammation,1
+G297,inflammation,mirrored_bruises (59).jpg,False,inflammation,1
+G298,inflammation,mirrored_bruises (60).jpg,False,inflammation,1
+G299,inflammation,mirrored_bruises (61).jpg,False,inflammation,1
+G300,inflammation,mirrored_bruises (62).jpg,False,inflammation,1
+G301,inflammation,mirrored_bruises (64).jpg,False,inflammation,1
+G302,inflammation,mirrored_bruises (65).jpg,False,inflammation,1
+G303,inflammation,mirrored_bruises (66).jpg,False,inflammation,1
+G304,inflammation,mirrored_bruises (67).jpg,False,inflammation,1
+G305,inflammation,mirrored_bruises (68).jpg,False,inflammation,1
+G306,inflammation,mirrored_bruises (70).jpg,False,inflammation,1
+G307,inflammation,mirrored_bruises (71).jpg,False,inflammation,1
+G308,inflammation,mirrored_bruises (72).jpg,False,inflammation,1
+G309,inflammation,mirrored_bruises (74).jpg,False,inflammation,1
+G310,inflammation,mirrored_bruises (75).jpg,False,inflammation,1
+G311,inflammation,mirrored_bruises (76).jpg,False,inflammation,1
+G312,inflammation,mirrored_bruises (77).jpg,False,inflammation,1
+G313,inflammation,mirrored_bruises (79).jpg,False,inflammation,1
+G314,inflammation,mirrored_bruises (80).jpg,False,inflammation,1
+G315,inflammation,mirrored_bruises (81).jpg,False,inflammation,1
+G316,inflammation,mirrored_bruises (82).jpg,False,inflammation,1
+G317,inflammation,mirrored_bruises (84).jpg,False,inflammation,1
+G318,inflammation,mirrored_bruises (85).jpg,False,inflammation,1
+G319,inflammation,mirrored_bruises (87).jpg,False,inflammation,1
+G320,inflammation,mirrored_bruises (88).jpg,False,inflammation,1
+G321,inflammation,mirrored_bruises (89).jpg,False,inflammation,1
+G322,inflammation,mirrored_bruises (90).jpg,False,inflammation,1
+G323,inflammation,mirrored_bruises (91).jpg,False,inflammation,1
+G324,inflammation,mirrored_bruises (92).jpg,False,inflammation,1
+G325,inflammation,mirrored_bruises (93).jpg,False,inflammation,1
+G326,inflammation,mirrored_bruises (94).jpg,False,inflammation,1
+G327,inflammation,mirrored_bruises (95).jpg,False,inflammation,1
+G328,inflammation,mirrored_bruises (96).jpg,False,inflammation,1
+G329,inflammation,mirrored_bruises (97).jpg,False,inflammation,1
+G330,inflammation,mirrored_bruises (99).jpg,False,inflammation,1
+G331,inflammation,mirrored_pressure-ulcer-on-foot-0006.jpg,False,inflammation,2
+G331,inflammation,pressure-ulcer-on-foot-0006.jpg,False,inflammation,2
+G332,inflammation,mirrored_pressure-ulcer-on-foot-0024.jpg,False,inflammation,1
+G333,inflammation,pressure-ulcer-on-foot-0003.jpg,False,inflammation,1
+G334,inflammation,wsnet_0990.png,False,inflammation,1
+G335,inflammation,wsnet_1053.png,False,inflammation,1
+G336,inflammation,wsnet_1054.png,False,inflammation,1
+G337,initial,1.webp,False,initial,1
+G338,initial,123_0.jpg,False,initial,1
+G339,initial,124_0.jpg,False,initial,1
+G340,initial,125_0.jpg,False,initial,1
+G341,initial,126_0.jpg,False,initial,1
+G342,initial,146_0.jpg,False,initial,1
+G343,initial,148_0.jpg,False,initial,1
+G344,initial,149_0.jpg,False,initial,1
+G345,initial,360_F_90486182_CTONkJddtxX7B08XC3IIgEzEg9LrGWiJ.jpg,False,initial,1
+G346,initial,5_1.jpg,False,initial,1
+G347,initial,818fef_2ce0064768e546a68ab1b3665a1b96e6_converted.png,False,initial,2
+G347,initial,818fef_2ce0064768e546a68ab1b3665a1b96e6~mv2.avif,False,initial,2
+G348,initial,A-bleeding-wound-after-a-non-anatomical-amputation-of-the-fifth-toe-and-resection-of-the.jpg,False,initial,1
+G349,initial,abrasions (1).jpg,False,initial,2
+G349,initial,mirrored_abrasions (1).jpg,False,initial,2
+G350,initial,abrasions (11).jpg,False,initial,1
+G351,initial,abrasions (12).jpg,False,initial,1
+G352,initial,abrasions (17).jpg,False,initial,2
+G352,initial,mirrored_abrasions (17).jpg,False,initial,2
+G353,initial,abrasions (43).jpg,False,initial,2
+G353,initial,abrasions (81).jpg,False,initial,2
+G354,initial,abrasions (45).jpg,False,initial,1
+G355,initial,abrasions (46).jpg,False,initial,1
+G356,initial,abrasions (56).jpg,False,initial,2
+G356,initial,mirrored_abrasions (56).jpg,False,initial,2
+G357,initial,abrasions (57).jpg,False,initial,2
+G357,initial,mirrored_abrasions (57).jpg,False,initial,2
+G358,initial,abrasions (58).jpg,False,initial,1
+G359,initial,abrasions (59).jpg,False,initial,2
+G359,initial,mirrored_abrasions (59).jpg,False,initial,2
+G360,initial,abrasions (6).jpg,False,initial,2
+G360,initial,mirrored_abrasions (6).jpg,False,initial,2
+G361,initial,abrasions (60).jpg,False,initial,1
+G362,initial,abrasions (63).jpg,False,initial,1
+G363,initial,abrasions (67).jpg,False,initial,2
+G363,initial,mirrored_abrasions (67).jpg,False,initial,2
+G364,initial,abrasions (69).jpg,False,initial,1
+G365,initial,abrasions (7).jpg,False,initial,2
+G365,initial,mirrored_abrasions (7).jpg,False,initial,2
+G366,initial,abrasions (71).jpg,False,initial,1
+G367,initial,abrasions (72).jpg,False,initial,1
+G368,initial,abrasions (73).jpg,False,initial,1
+G369,initial,abrasions (74).jpg,False,initial,1
+G370,initial,abrasions (75).jpg,False,initial,1
+G371,initial,abrasions (76).jpg,False,initial,1
+G372,initial,abrasions (77).jpg,False,initial,1
+G373,initial,abrasions (78).jpg,False,initial,1
+G374,initial,abrasions (79).jpg,False,initial,1
+G375,initial,abrasions (8).jpg,False,initial,2
+G375,initial,mirrored_abrasions (8).jpg,False,initial,2
+G376,initial,abrasions (80).jpg,False,initial,1
+G377,initial,abrasions (82).jpg,False,initial,2
+G377,initial,mirrored_abrasions (82).jpg,False,initial,2
+G378,initial,abrasions (83).jpg,False,initial,1
+G379,initial,abrasions (84).jpg,False,initial,1
+G380,initial,abrasions (85).jpg,False,initial,1
+G381,initial,abrasions (9).jpg,False,initial,2
+G381,initial,mirrored_abrasions (9).jpg,False,initial,2
+G382,initial,bloody-flesh-animal-gnawing-bloodied-260nw-784127827.webp,False,initial,1
+G383,initial,closeup-of-wound-and-dry-blood-on-leg-wound-on-the-leg-blood-HYN3CM.jpg,False,initial,1
+G384,initial,cut (15).jpg,False,initial,1
+G385,initial,cut (20).jpg,False,initial,2
+G385,initial,mirrored_cut (20).jpg,False,initial,2
+G386,initial,cut (35).jpg,False,initial,2
+G386,initial,mirrored_cut (35).jpg,False,initial,2
+G387,initial,cut (42).jpg,False,initial,2
+G387,initial,mirrored_cut (42).jpg,False,initial,2
+G388,initial,cut (7).jpg,False,initial,2
+G388,initial,mirrored_cut (7).jpg,False,initial,2
+G389,initial,depositphotos_691705660-stock-photo-bloody-blood-body.webp,False,initial,1
+G390,initial,foot-ulcer-0008.jpg,False,initial,1
+G391,initial,foot-ulcer-0012.jpg,False,initial,1
+G392,initial,fusc_0774.png,False,initial,1
+G393,initial,fusc_1000.png,False,initial,1
+G394,initial,gettyimages-142618123-640x640.jpg,False,initial,1
+G395,initial,images.jpg,False,initial,1
+G396,initial,istockphoto-1403757210-612x612.webp,False,initial,1
+G397,initial,istockphoto-1412306766-612x612.jpg,False,initial,1
+G398,initial,istockphoto-482948797-612x612.jpg,False,initial,1
+G399,initial,laseration (24).jpg,False,initial,1
+G400,initial,laseration (35).jpg,False,initial,1
+G401,initial,laseration (36).jpg,False,initial,2
+G401,initial,mirrored_laseration (36).jpg,False,initial,2
+G402,initial,laseration (40).jpg,False,initial,1
+G403,initial,laseration (41).jpg,False,initial,2
+G403,initial,mirrored_laseration (41).jpg,False,initial,2
+G404,initial,laseration (48).jpg,False,initial,2
+G404,initial,mirrored_laseration (48).jpg,False,initial,2
+G405,initial,laseration (59).jpg,False,initial,1
+G406,initial,medetec_0005.png,False,initial,1
+G407,initial,medetec_0006.png,False,initial,1
+G408,initial,medetec_0008.png,False,initial,1
+G409,initial,medetec_0010.png,False,initial,1
+G410,initial,medetec_0018.png,False,initial,1
+G411,initial,medetec_0020.png,False,initial,1
+G412,initial,medetec_0021.png,False,initial,1
+G413,initial,medetec_0107.png,False,initial,1
+G414,initial,medetec_0108.png,False,initial,1
+G415,initial,medetec_0109.png,False,initial,1
+G416,initial,medetec_0110.png,False,initial,1
+G417,initial,medetec_0111.png,False,initial,1
+G418,initial,medetec_0112.png,False,initial,1
+G419,initial,medetec_0113.png,False,initial,1
+G420,initial,medetec_0131.png,False,initial,1
+G421,initial,medetec_0132.png,False,initial,1
+G422,initial,medetec_0133.png,False,initial,1
+G423,initial,medetec_0134.png,False,initial,1
+G424,initial,medetec_0135.png,False,initial,1
+G425,initial,medetec_0136.png,False,initial,1
+G426,initial,medetec_0137.png,False,initial,1
+G427,initial,medetec_0138.png,False,initial,1
+G428,initial,medetec_0139.png,False,initial,1
+G429,initial,medetec_0140.png,False,initial,1
+G430,initial,medetec_0141.png,False,initial,1
+G431,initial,medetec_0257.png,False,initial,1
+G432,initial,mirrored_abrasions (19).jpg,False,initial,1
+G433,initial,mirrored_abrasions (20).jpg,False,initial,1
+G434,initial,mirrored_abrasions (22).jpg,False,initial,1
+G435,initial,mirrored_abrasions (23).jpg,False,initial,1
+G436,initial,mirrored_abrasions (24).jpg,False,initial,1
+G437,initial,mirrored_abrasions (25).jpg,False,initial,1
+G438,initial,mirrored_abrasions (29).jpg,False,initial,1
+G439,initial,mirrored_abrasions (3).jpg,False,initial,1
+G440,initial,mirrored_abrasions (31).jpg,False,initial,1
+G441,initial,mirrored_abrasions (32).jpg,False,initial,1
+G442,initial,mirrored_abrasions (37).jpg,False,initial,1
+G443,initial,mirrored_abrasions (4).jpg,False,initial,1
+G444,initial,mirrored_abrasions (5).jpg,False,initial,1
+G445,initial,mirrored_abrasions (51).jpg,False,initial,1
+G446,initial,mirrored_abrasions (52).jpg,False,initial,1
+G447,initial,mirrored_abrasions (54).jpg,False,initial,1
+G448,initial,mirrored_abrasions (55).jpg,False,initial,1
+G449,initial,mirrored_healing-presure-ulcer-0012.jpg,False,initial,1
+G450,initial,mirrored_healing-presure-ulcer-0026.jpg,False,initial,1
+G451,initial,mirrored_laseration (55).jpg,False,initial,1
+G452,initial,mirrored_laseration (56).jpg,False,initial,1
+G453,initial,orthopaedic-wound-1-15.jpg,False,initial,1
+G454,initial,orthopaedic-wound-1-16.jpg,False,initial,1
+G455,initial,orthopaedic-wound-1-7.jpg,False,initial,1
+G456,initial,orthopaedic-wound-1-9.jpg,False,initial,1
+G457,initial,orthopaedic-wound-7.jpg,False,initial,1
+G458,initial,orthopaedic-wound-9-2.jpg,False,initial,1
+G459,initial,orthopaedic-wound-9-3.jpg,False,initial,1
+G460,initial,stab_wound (16).jpg,False,initial,1
+G461,initial,Status-post-negative-pressure-wound-therapy-Healthy-abundant-beefy-red-granulation.png,False,initial,1
+G462,initial,wsnet_0918.png,False,initial,1
+G463,initial,wsnet_1008.png,False,initial,1

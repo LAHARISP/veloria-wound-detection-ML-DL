@@ -1,0 +1,244 @@
+group_id,class,filename,label_conflict,group_labels
+G001,healed,100.jpg,False,healed
+G001,healed,mirrored_100.jpg,False,healed
+G002,healed,11.jpg,False,healed
+G002,healed,mirrored_11.jpg,False,healed
+G003,healed,12.jpg,False,healed
+G003,healed,mirrored_12.jpg,False,healed
+G004,healed,13.jpg,False,healed
+G004,healed,mirrored_13.jpg,False,healed
+G005,healed,14.jpg,False,healed
+G005,healed,mirrored_14.jpg,False,healed
+G006,healed,14_0.jpg,False,healed
+G006,healed,mirrored_14_0.jpg,False,healed
+G007,healed,15.jpg,False,healed
+G007,healed,mirrored_15.jpg,False,healed
+G008,healed,16.jpg,False,healed
+G008,healed,mirrored_16.jpg,False,healed
+G009,healed,17.jpg,False,healed
+G009,healed,mirrored_17.jpg,False,healed
+G010,healed,17_0.jpg,False,healed
+G010,healed,mirrored_17_0.jpg,False,healed
+G011,healed,18.jpg,False,healed
+G011,healed,mirrored_18.jpg,False,healed
+G012,healed,18_0.jpg,False,healed
+G012,healed,mirrored_18_0.jpg,False,healed
+G013,healed,19.jpg,False,healed
+G013,healed,mirrored_19.jpg,False,healed
+G014,healed,19_0.jpg,False,healed
+G014,healed,mirrored_19_0.jpg,False,healed
+G015,healed,19_1.jpg,False,healed
+G015,healed,mirrored_19_1.jpg,False,healed
+G016,healed,20.jpg,False,healed
+G016,healed,mirrored_20.jpg,False,healed
+G017,healed,26.jpg,False,healed
+G017,healed,mirrored_26.jpg,False,healed
+G018,healed,28.jpg,False,healed
+G018,healed,mirrored_28.jpg,False,healed
+G019,healed,36.jpg,False,healed
+G019,healed,mirrored_36.jpg,False,healed
+G020,healed,37.jpg,False,healed
+G020,healed,mirrored_37.jpg,False,healed
+G021,healed,38.jpg,False,healed
+G021,healed,mirrored_38.jpg,False,healed
+G022,healed,39.jpg,False,healed
+G022,healed,mirrored_39.jpg,False,healed
+G023,healed,40.jpg,False,healed
+G023,healed,mirrored_40.jpg,False,healed
+G024,healed,41.jpg,False,healed
+G024,healed,mirrored_41.jpg,False,healed
+G025,healed,42.jpg,False,healed
+G025,healed,mirrored_42.jpg,False,healed
+G026,healed,46.jpg,False,healed
+G026,healed,mirrored_46.jpg,False,healed
+G027,healed,47.jpg,False,healed
+G027,healed,mirrored_47.jpg,False,healed
+G028,healed,54.jpg,False,healed
+G028,healed,mirrored_54.jpg,False,healed
+G029,healed,55.jpg,False,healed
+G029,healed,mirrored_55.jpg,False,healed
+G030,healed,56.jpg,False,healed
+G030,healed,mirrored_56.jpg,False,healed
+G031,healed,57.jpg,False,healed
+G031,healed,mirrored_57.jpg,False,healed
+G032,healed,58.jpg,False,healed
+G032,healed,mirrored_58.jpg,False,healed
+G033,healed,79.jpg,False,healed
+G033,healed,mirrored_79.jpg,False,healed
+G034,healed,80.jpg,False,healed
+G034,healed,mirrored_80.jpg,False,healed
+G035,healed,81.jpg,False,healed
+G035,healed,mirrored_81.jpg,False,healed
+G036,healed,82.jpg,False,healed
+G036,healed,mirrored_82.jpg,False,healed
+G037,healed,83.jpg,False,healed
+G037,healed,mirrored_83.jpg,False,healed
+G038,healed,84.jpg,False,healed
+G038,healed,mirrored_84.jpg,False,healed
+G039,healed,85.jpg,False,healed
+G039,healed,mirrored_85.jpg,False,healed
+G040,healed,86.jpg,False,healed
+G040,healed,mirrored_86.jpg,False,healed
+G041,healed,87.jpg,False,healed
+G041,healed,mirrored_87.jpg,False,healed
+G042,healed,98.jpg,False,healed
+G042,healed,mirrored_98.jpg,False,healed
+G043,healed,99.jpg,False,healed
+G043,healed,mirrored_99.jpg,False,healed
+G044,healing,cut (10).jpg,False,healing
+G044,healing,mirrored_cut (10).jpg,False,healing
+G045,healing,cut (11).jpg,False,healing
+G045,healing,mirrored_cut (11).jpg,False,healing
+G046,healing,cut (13).jpg,False,healing
+G046,healing,mirrored_cut (13).jpg,False,healing
+G047,healing,cut (14).jpg,False,healing
+G047,healing,mirrored_cut (14).jpg,False,healing
+G048,healing,cut (16).jpg,False,healing
+G048,healing,mirrored_cut (16).jpg,False,healing
+G049,healing,cut (17).jpg,False,healing
+G049,healing,mirrored_cut (17).jpg,False,healing
+G050,healing,cut (18).jpg,False,healing
+G050,healing,mirrored_cut (18).jpg,False,healing
+G051,healing,cut (19).jpg,False,healing
+G051,healing,mirrored_cut (19).jpg,False,healing
+G052,healing,cut (21).jpg,False,healing
+G052,healing,mirrored_cut (21).jpg,False,healing
+G053,healing,cut (22).jpg,False,healing
+G053,healing,mirrored_cut (22).jpg,False,healing
+G054,healing,cut (23).jpg,False,healing
+G054,healing,mirrored_cut (23).jpg,False,healing
+G055,healing,cut (24).jpg,False,healing
+G055,healing,mirrored_cut (24).jpg,False,healing
+G056,healing,cut (25).jpg,False,healing
+G056,healing,mirrored_cut (25).jpg,False,healing
+G057,healing,cut (26).jpg,False,healing
+G057,healing,mirrored_cut (26).jpg,False,healing
+G058,healing,cut (27).jpg,False,healing
+G058,healing,mirrored_cut (27).jpg,False,healing
+G059,healing,cut (28).jpg,False,healing
+G059,healing,mirrored_cut (28).jpg,False,healing
+G060,healing,cut (29).jpg,False,healing
+G060,healing,mirrored_cut (29).jpg,False,healing
+G061,healing,cut (3).jpg,False,healing
+G061,healing,mirrored_cut (3).jpg,False,healing
+G062,healing,cut (30).jpg,False,healing
+G062,healing,mirrored_cut (30).jpg,False,healing
+G063,healing,cut (31).jpg,False,healing
+G063,healing,mirrored_cut (31).jpg,False,healing
+G064,healing,cut (32).jpg,False,healing
+G064,healing,mirrored_cut (32).jpg,False,healing
+G065,healing,cut (33).jpg,False,healing
+G065,healing,mirrored_cut (33).jpg,False,healing
+G066,healing,cut (36).jpg,False,healing
+G066,healing,mirrored_cut (36).jpg,False,healing
+G067,healing,cut (37).jpg,False,healing
+G067,healing,mirrored_cut (37).jpg,False,healing
+G068,healing,cut (45).jpg,False,healing
+G068,healing,mirrored_cut (45).jpg,False,healing
+G069,healing,cut (46).jpg,False,healing
+G069,healing,mirrored_cut (46).jpg,False,healing
+G070,healing,cut (47).jpg,False,healing
+G070,healing,mirrored_cut (47).jpg,False,healing
+G071,healing,cut (48).jpg,False,healing
+G071,healing,mirrored_cut (48).jpg,False,healing
+G072,healing,cut (49).jpg,False,healing
+G072,healing,mirrored_cut (49).jpg,False,healing
+G073,healing,cut (50).jpg,False,healing
+G073,healing,mirrored_cut (50).jpg,False,healing
+G074,inflammation,bruises (10).jpg,False,inflammation
+G074,inflammation,mirrored_bruises (10).jpg,False,inflammation
+G075,inflammation,bruises (100).jpg,False,inflammation
+G075,inflammation,mirrored_bruises (100).jpg,False,inflammation
+G076,inflammation,bruises (101).jpg,False,inflammation
+G076,inflammation,mirrored_bruises (101).jpg,False,inflammation
+G077,inflammation,bruises (102).jpg,False,inflammation
+G077,inflammation,mirrored_bruises (102).jpg,False,inflammation
+G078,inflammation,bruises (103).jpg,False,inflammation
+G078,inflammation,mirrored_bruises (103).jpg,False,inflammation
+G079,inflammation,bruises (11).jpg,False,inflammation
+G079,inflammation,mirrored_bruises (11).jpg,False,inflammation
+G080,inflammation,bruises (110).jpg,False,inflammation
+G080,inflammation,mirrored_bruises (39).jpg,False,inflammation
+G081,inflammation,bruises (111).jpg,False,inflammation
+G081,inflammation,mirrored_bruises (111).jpg,False,inflammation
+G082,inflammation,bruises (112).jpg,False,inflammation
+G082,inflammation,mirrored_bruises (112).jpg,False,inflammation
+G083,inflammation,bruises (113).jpg,False,inflammation
+G083,inflammation,mirrored_bruises (113).jpg,False,inflammation
+G084,inflammation,bruises (12).jpg,False,inflammation
+G084,inflammation,mirrored_bruises (12).jpg,False,inflammation
+G085,inflammation,bruises (122).jpg,False,inflammation
+G085,inflammation,mirrored_bruises (122).jpg,False,inflammation
+G086,inflammation,bruises (13).jpg,False,inflammation
+G086,inflammation,mirrored_bruises (13).jpg,False,inflammation
+G087,inflammation,bruises (14).jpg,False,inflammation
+G087,inflammation,mirrored_bruises (14).jpg,False,inflammation
+G088,inflammation,bruises (15).jpg,False,inflammation
+G088,inflammation,mirrored_bruises (15).jpg,False,inflammation
+G088,inflammation,mirrored_bruises (28).jpg,False,inflammation
+G089,inflammation,bruises (16).jpg,False,inflammation
+G089,inflammation,mirrored_bruises (16).jpg,False,inflammation
+G090,inflammation,bruises (5).jpg,False,inflammation
+G090,inflammation,mirrored_bruises (5).jpg,False,inflammation
+G091,inflammation,bruises (6).jpg,False,inflammation
+G091,inflammation,mirrored_bruises (6).jpg,False,inflammation
+G092,inflammation,bruises (7).jpg,False,inflammation
+G092,inflammation,mirrored_bruises (7).jpg,False,inflammation
+G093,inflammation,bruises (8).jpg,False,inflammation
+G093,inflammation,mirrored_bruises (8).jpg,False,inflammation
+G094,inflammation,bruises (9).jpg,False,inflammation
+G094,inflammation,mirrored_bruises (9).jpg,False,inflammation
+G095,inflammation,mirrored_bruises (25).jpg,False,inflammation
+G095,inflammation,mirrored_bruises (29).jpg,False,inflammation
+G096,inflammation,mirrored_bruises (32).jpg,False,inflammation
+G096,inflammation,mirrored_bruises (63).jpg,False,inflammation
+G097,inflammation,mirrored_bruises (36).jpg,False,inflammation
+G097,inflammation,mirrored_bruises (78).jpg,False,inflammation
+G098,inflammation,mirrored_pressure-ulcer-on-foot-0006.jpg,False,inflammation
+G098,inflammation,pressure-ulcer-on-foot-0006.jpg,False,inflammation
+G099,initial,abrasions (1).jpg,False,initial
+G099,initial,mirrored_abrasions (1).jpg,False,initial
+G100,initial,abrasions (17).jpg,False,initial
+G100,initial,mirrored_abrasions (17).jpg,False,initial
+G101,initial,abrasions (43).jpg,False,initial
+G101,initial,abrasions (81).jpg,False,initial
+G102,initial,abrasions (56).jpg,False,initial
+G102,initial,mirrored_abrasions (56).jpg,False,initial
+G103,initial,abrasions (57).jpg,False,initial
+G103,initial,mirrored_abrasions (57).jpg,False,initial
+G104,initial,abrasions (59).jpg,False,initial
+G104,initial,mirrored_abrasions (59).jpg,False,initial
+G105,initial,abrasions (6).jpg,False,initial
+G105,initial,mirrored_abrasions (6).jpg,False,initial
+G106,initial,abrasions (67).jpg,False,initial
+G106,initial,mirrored_abrasions (67).jpg,False,initial
+G107,initial,abrasions (7).jpg,False,initial
+G107,initial,mirrored_abrasions (7).jpg,False,initial
+G108,initial,abrasions (8).jpg,False,initial
+G108,initial,mirrored_abrasions (8).jpg,False,initial
+G109,initial,abrasions (82).jpg,False,initial
+G109,initial,mirrored_abrasions (82).jpg,False,initial
+G110,initial,abrasions (9).jpg,False,initial
+G110,initial,mirrored_abrasions (9).jpg,False,initial
+G111,initial,cut (20).jpg,False,initial
+G111,initial,mirrored_cut (20).jpg,False,initial
+G112,initial,cut (35).jpg,False,initial
+G112,initial,mirrored_cut (35).jpg,False,initial
+G113,initial,cut (42).jpg,False,initial
+G113,initial,mirrored_cut (42).jpg,False,initial
+G114,initial,cut (7).jpg,False,initial
+G114,initial,mirrored_cut (7).jpg,False,initial
+G115,initial,laseration (36).jpg,False,initial
+G115,initial,mirrored_laseration (36).jpg,False,initial
+G116,initial,laseration (41).jpg,False,initial
+G116,initial,mirrored_laseration (41).jpg,False,initial
+G117,initial,laseration (48).jpg,False,initial
+G117,initial,mirrored_laseration (48).jpg,False,initial
+G118,healing,cut (12).jpg,True,"healing, initial"
+G118,initial,mirrored_cut (12).jpg,True,"healing, initial"
+G119,healing,cut (38).jpg,True,"healing, initial"
+G119,initial,mirrored_cut (38).jpg,True,"healing, initial"
+G120,healing,cut (5).jpg,True,"healing, initial"
+G120,initial,mirrored_cut (5).jpg,True,"healing, initial"
+G121,healing,cut (9).jpg,True,"healing, initial"
+G121,initial,mirrored_cut (9).jpg,True,"healing, initial"
